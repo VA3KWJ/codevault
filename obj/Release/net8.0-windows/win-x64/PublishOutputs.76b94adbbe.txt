@@ -1,0 +1,2 @@
+C:\temp\CodeVault-csharp\CodeVault-csharp\bin\Release\net8.0-windows\win-x64\publish\CodeVault.pdb
+C:\temp\CodeVault-csharp\CodeVault-csharp\bin\Release\net8.0-windows\win-x64\publish\CodeVault.exe
